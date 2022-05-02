@@ -1,0 +1,1 @@
+Hello unfortunate soul whom stumbled upon my code..  This is basically just a mirror..  Nothing fancy or anything..  Just a poor attempt at godot i guess.
